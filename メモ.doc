@@ -11,3 +11,11 @@ ng generate module app-routing --flat --module=app
 
 
 ng build --prod --baseHref=”https://archmapp2.github.io/minty"
+
+
+git remote add origin https://github.com/archmapp2/slate.git
+
+reverent-bardeen-016a43
+
+reverent-bardeen-016a43.netlify.app
+
